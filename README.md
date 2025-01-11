@@ -1,6 +1,6 @@
 # password
 
-
+```
 import re
 
 def check_password_strength(password):
@@ -28,3 +28,4 @@ def check_password_strength(password):
 if __name__ == "__main__":
     password = input("Enter your password: ")
     check_password_strength(password)
+'''
